@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.guboyun.cn/sitemap.xml
